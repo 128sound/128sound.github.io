@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Han Junghoon"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/img/me.png"
   bio              : "Hi !"
   location         : "Seoul"
   email            : "hanjung91@gmail.com
