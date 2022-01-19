@@ -102,11 +102,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Han Junghoon"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Hi !"
+  location         : "Seoul"
+  email            : "hanjung91@gmail.com
+  GitHub           : "https://github.com/128sound"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
